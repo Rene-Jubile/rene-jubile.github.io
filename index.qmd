@@ -4,7 +4,7 @@ image : media/profile.png
 about:
   template: jolla
   image-shape: round
-  image-width: 20em
+  image-width: 10em
   links: 
     - text: LinkedIn
       icon: linkedin
