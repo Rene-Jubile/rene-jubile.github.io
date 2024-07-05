@@ -1,11 +1,20 @@
 ---
-title: "rene-jubile.github.io"
+title: "René-Jubilé MABILA"
+image : media/profile.png
+about:
+  template: jolla
+  image-shape: round
+  image-width: 20em
+  links: 
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/mabilarene/
+    - text: Github
+      icon: github
+      href: https://www.github.com/Rene-Jubile/
+    - text: Email
+      icon: envelope
+      href: jubile@mabilarene.tech
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+i'm
