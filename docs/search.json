@@ -25,6 +25,34 @@
     "href": "projects.html",
     "title": "My Projects",
     "section": "",
-    "text": "No matching items"
+    "text": "Occupation du sol Ntambuka de 2003 à 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/idjwi-lulc/index.html",
+    "href": "projects/idjwi-lulc/index.html",
+    "title": "Occupation du sol Ntambuka de 2003 à 2023",
+    "section": "",
+    "text": "Pour analyser l’occupation du sol dans le temps, la méthode basée sur la classification supervisée a été utilisée avec l’algorithme « Random Trees Classifier ou RTC » sous le logiciel Arc GIS 10.7. Le modèle RTC est l’une des approches d’apprentissage automatique supervisé les plus populaires, il est plus utilisé pour sa grande précision (Dudyrev et Kuznetsov, 2021). C’est un classificateur qui utilise la moyenne de plusieurs arbres de décision sur différents sous-ensembles de l’ensemble de données pour améliorer la précision projetée de ces données (Mosavi et al., 2020; Wincy et al., 2022). Les images satellitaires Landsat 7 et 9 ont été choisies en raison de leur disponibilité pour les années en étude et leur libre accès en ligne. Trois années ont été considérées pour évaluer la dynamique de l’occupation des terres, il s’agit de 2003 (LandSat 7 ETM+), 2013 (LandSat 7 ETM+) et 2023 (LandSat 9 TM/TIRS). Quatre bandes spectrales par image satellitaires dont la description est reprise dans le tableau 2 ont été utilisées.\nLa figure reprend la dynamique spatiotemporelle de l’occupation de sol dans a chefferoie de Ntabuka pour les années 2003, 2013 et 2023. Cette classification a été réalisée par l’algorthime Random Trees Classifier dans le logiciel Arc Map 10.7.\n\n\n\nLand use map 2003 to 2023"
+  },
+  {
+    "objectID": "projects/idjwi-lulc/index.html#introduction",
+    "href": "projects/idjwi-lulc/index.html#introduction",
+    "title": "Occupation du sol Ntambuka de 2003 à 2023",
+    "section": "",
+    "text": "Pour analyser l’occupation du sol dans le temps, la méthode basée sur la classification supervisée a été utilisée avec l’algorithme « Random Trees Classifier ou RTC » sous le logiciel Arc GIS 10.7. Le modèle RTC est l’une des approches d’apprentissage automatique supervisé les plus populaires, il est plus utilisé pour sa grande précision (Dudyrev et Kuznetsov, 2021). C’est un classificateur qui utilise la moyenne de plusieurs arbres de décision sur différents sous-ensembles de l’ensemble de données pour améliorer la précision projetée de ces données (Mosavi et al., 2020; Wincy et al., 2022). Les images satellitaires Landsat 7 et 9 ont été choisies en raison de leur disponibilité pour les années en étude et leur libre accès en ligne. Trois années ont été considérées pour évaluer la dynamique de l’occupation des terres, il s’agit de 2003 (LandSat 7 ETM+), 2013 (LandSat 7 ETM+) et 2023 (LandSat 9 TM/TIRS). Quatre bandes spectrales par image satellitaires dont la description est reprise dans le tableau 2 ont été utilisées.\nLa figure reprend la dynamique spatiotemporelle de l’occupation de sol dans a chefferoie de Ntabuka pour les années 2003, 2013 et 2023. Cette classification a été réalisée par l’algorthime Random Trees Classifier dans le logiciel Arc Map 10.7.\n\n\n\nLand use map 2003 to 2023"
+  },
+  {
+    "objectID": "projects/idjwi-lulc/index.html#carte-de-transition",
+    "href": "projects/idjwi-lulc/index.html#carte-de-transition",
+    "title": "Occupation du sol Ntambuka de 2003 à 2023",
+    "section": "Carte de transition",
+    "text": "Carte de transition"
+  },
+  {
+    "objectID": "projects/idjwi-lulc/index.html#matrice-de-confusion",
+    "href": "projects/idjwi-lulc/index.html#matrice-de-confusion",
+    "title": "Occupation du sol Ntambuka de 2003 à 2023",
+    "section": "Matrice de confusion",
+    "text": "Matrice de confusion"
   }
 ]
