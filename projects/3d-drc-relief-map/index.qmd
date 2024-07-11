@@ -8,7 +8,7 @@ Dans le cade d'un projet personnel. J'ai produis des Relief Map de certaines pro
 
 ![Equateur topographic Map](imgs/Equateur%20@mabilarene.jpg)
 
-## Haut-Katanga 
+## Haut-Katanga
 
 ![Haut-Katanga topographic Map](imgs/haut-katanga%20@mabilarene.jpg)
 
@@ -16,7 +16,7 @@ Dans le cade d'un projet personnel. J'ai produis des Relief Map de certaines pro
 
 ![Haut-Lomami topographic Map](imgs/haut-lomami%20@mabilarene.jpg)
 
-## Ituri 
+## Ituri
 
 ![Ituri topographic Map](imgs/ituri%20@mabilarene.jpg)
 
@@ -48,7 +48,7 @@ Dans le cade d'un projet personnel. J'ai produis des Relief Map de certaines pro
 
 ![Maniema Topographic Map](imgs/Maniema%20@mabilarene.jpg)
 
-## Mongala 
+## Mongala
 
 ![Mongala Topographic Map](imgs/mongala%20@mabilarene.jpg)
 
